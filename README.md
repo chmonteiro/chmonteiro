@@ -5,32 +5,41 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:3B82F6&height=200&section=header&text=Charles%20Monteiro&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Full-Stack%20%7C%20Automa%C3%A7%C3%B5es%20com%20IA&descSize=18&descAlignY=58" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,50:0EA5E9,100:00E5FF&height=220&section=header&text=Charles%20Monteiro&fontSize=52&fontColor=00E5FF&fontAlignY=36&desc=%E2%9A%A1%20Full-Stack%20Developer%20%2F%2F%20Automa%C3%A7%C3%B5es%20com%20IA%20%E2%9A%A1&descSize=18&descAlignY=56&stroke=00E5FF&strokeWidth=1" width="100%" alt="banner"/>
 
 <a href="https://github.com/chmonteiro">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Transformando+ideias+em+c%C3%B3digo;Full-Stack+Developer+%F0%9F%90%89;Automa%C3%A7%C3%B5es+inteligentes+com+IA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=680&lines=%3E+Transformando+ideias+em+c%C3%B3digo;%3E+Full-Stack+Developer+%E2%9A%A1;%3E+Automa%C3%A7%C3%B5es+inteligentes+com+IA;%3E+Interfaces+modernas+e+performticas" alt="Typing SVG" />
 </a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/-%E2%9A%A1%20DISPON%C3%8DVEL%20PARA%20PROJETOS-0D1117?style=for-the-badge&labelColor=0D1117&color=00E5FF" alt="status"/>
 
 </div>
 
 <br/>
 
-## 👋 Sobre mim
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-line.gif" width="100%" alt="divisor"/>
 
-```javascript
+## `⟨ ⟩` Sobre mim
+
+```typescript
 const charles = {
-  code: ["JavaScript", "Python"],
-  focus: ["Front-end moderno", "Automações com IA"],
-  learning: "Sempre evoluindo 🚀",
-  fun_fact: "Curto transformar problemas complexos em soluções simples"
+  role:      "Full-Stack Developer",
+  focus:     ["Front-end moderno", "Automações com IA"],
+  stack:     ["JavaScript", "React", "Python"],
+  mindset:   "Código limpo, design cuidadoso e performance",
+  status:    "🟢 Aberto a novas oportunidades"
 };
 ```
 
-Sou desenvolvedor **Full-Stack** com foco em interfaces modernas e **automações inteligentes com IA**. Gosto de construir produtos que unem design cuidadoso e engenharia sólida.
+> Construo produtos que unem **engenharia sólida** e **design refinado** — com foco em interfaces modernas e **automações inteligentes com IA**.
 
 <br/>
 
-## 🛠️ Tecnologias
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-line.gif" width="100%" alt="divisor"/>
+
+## `⚡` Tecnologias
 
 <div align="center">
 
@@ -40,30 +49,35 @@ Sou desenvolvedor **Full-Stack** com foco em interfaces modernas e **automaçõe
 
 <br/>
 
-## 📊 GitHub
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-line.gif" width="100%" alt="divisor"/>
+
+## `📊` GitHub em números
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chmonteiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=3B82F6" alt="stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chmonteiro&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6" alt="top langs" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chmonteiro&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=0EA5E9&text_color=C9D1D9&border_color=00E5FF" alt="stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chmonteiro&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&border_color=00E5FF" alt="top langs" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chmonteiro&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=3B82F6&fire=3B82F6&currStreakLabel=8B5CF6" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chmonteiro&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=0EA5E9&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B949E" alt="streak" />
 
 </div>
 
 <br/>
 
-## 📫 Contato
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-line.gif" width="100%" alt="divisor"/>
+
+## `📫` Vamos conversar
 
 <div align="center">
 
-<a href="[https://www.linkedin.com/in/SEU-USUARIO/](https://www.linkedin.com/in/carlos-charles/)">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/carlos-charles/">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF&labelColor=0D1117" alt="LinkedIn"/>
 </a>
-<a href="Charles: carloscharles2k@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+&nbsp;
+<a href="mailto:carloscharles2k@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=0D1117" alt="Email"/>
 </a>
 
 </div>
@@ -72,6 +86,6 @@ Sou desenvolvedor **Full-Stack** com foco em interfaces modernas e **automaçõe
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:0EA5E9,100:0A2540&height=130&section=footer" width="100%" alt="footer"/>
 
 </div>
